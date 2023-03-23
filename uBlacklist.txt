@@ -14,3 +14,5 @@
 *://*.nl/*
 *://*.lv/*
 *://*.si/*
+*://*.example.com/*
+/example\.(net|org)/
